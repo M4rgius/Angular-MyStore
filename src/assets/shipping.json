@@ -1,0 +1,19 @@
+[
+  {
+    "type": "In 24 ore",
+    "price": 25.99
+  },
+  {
+    "type": "2 giorni",
+    "price": 9.99
+  },
+  {
+    "type": "Aspetta e spera",
+    "price": 2.99
+  },
+  {
+"type": "Spedito quando ce lo ricordermo",
+"price": 1
+  }
+
+]
